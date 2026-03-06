@@ -5,6 +5,7 @@ seaborn
 plotly
 scikit-learn
 xgboost
-streamlit
 joblib
 openpyxl
+streamlit==1.43.0
+altair==5.4.1
