@@ -1,11 +1,13 @@
 # 📊 Sales Analytics & Demand Forecasting Dashboard
 
+🚀 **[Live Demo](https://lordvader-66-sales-analytics-dashboard-dashboardapp-5u8wwe.streamlit.app/)**
+
 An end-to-end data analytics and machine learning project analysing 10,000+
 retail transactions to surface business insights and forecast future demand.
 
 ![Dashboard Overview](screenshots/overview.png)
 
----
+--- 
 
 ## 🛠️ Tech Stack
 
